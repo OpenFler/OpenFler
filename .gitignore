@@ -1,6 +1,165 @@
+<<<<<<< HEAD
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.swc
+*AppleDouble
+*DS_Store
+*.iml
+jdbc.properties
+META-INF/*
+META-INF
+
+server.properties
+jdbc.properties
+
+*/jdbc.properties
+*/server.properties
+.classpath
+*/.classpath
+*/buid/classes/*
+*/build/*
+/build
+/dist
+/dist/*
+
+/web/WEB-INF/lib
+/web/WEB-INF/lib/*
+/web/META-INF
+/web/META-INF/*
+
+*.jar
+
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+
+# Logs and databases #
+######################
+*.log
+
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+bin-debug
+*.actionScriptProperties
+*.project
+bin
+*/.settings
+.settings*
+*html-template
+cache/*
+*/WEB-INF/lib/*
+
+*/jdbc.properties
+
+
+DTOGEN
+.idea
+out
+
+/nbproject
+/nbproject/*
+
+
+
+
+
+server.properties
+=======
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.swc
+*DS_Store
+*.iml
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+bin-debug
+*.actionScriptProperties
+*.flexLibProperties
+*.project
+*.flexProperties
+bin
+*/.settings
+.settings*
+*html-template
+cache/*
+*/WEB-INF/lib/*
+
+*/jdbc.properties
+*/.idea
+*/.idea/*
+
+workspace.xml
+
+DTOGEN
+out
+
+
+
+*/workspace.xml
+
+*/lib/jar/*
+*/lib/source/*
+
+server.properties
+*/server.propperties
+=======
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+>>>>>>> 1402d0a8d89bf20c15a03fd259a16701f047fe6f
